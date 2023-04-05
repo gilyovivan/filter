@@ -73,7 +73,7 @@ function App() {
 
   return (
     <div>
-      <h1 className={classes.headings}>Mock Data</h1>
+      <h1 className={classes.headings}>Rick and Morty Data</h1>
       <FilterGroup
         activeFilters={activeFilters}
         handleFilterClick={handleFilterClick}
